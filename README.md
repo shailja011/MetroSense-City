@@ -176,8 +176,4 @@ Explore the MetroSense City MVP:
 - OCR extraction from paper forms and certificates.
 - AI-assisted anomaly detection and report search.
 
----
 
-## License
-
-Add your selected license here, such as MIT License.
