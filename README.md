@@ -97,16 +97,17 @@ rules and authorized officer approval.
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-| Layer | Technology |
+| Layer | Technologies |
 |---|---|
-| Frontend | Add your actual frontend technology |
-| Backend | Add your actual backend technology |
-| Database | Add your actual database |
-| Authentication | Add your authentication method |
-| Reports | PDF generation with QR verification |
-| Deployment | Add your hosting or deployment platform |
+| Frontend | React, Tailwind CSS, JavaScript |
+| Backend | FastAPI, Python |
+| Database | PostgreSQL, SQLAlchemy |
+| Authentication | JWT, OAuth 2.0 |
+| Reports | ReportLab, QR Code Generation |
+| AI & Computer Vision | OpenCV, MediaPipe, Google Gemini |
+| Deployment | Vercel, Render |
 
 ---
 
@@ -133,17 +134,6 @@ Add real screenshots after uploading them to `assets/screenshots/`.
 7. Verify the report through its QR code or report ID.
 8. View the complete audit trail and version history.
 9. Monitor pending verification visits through the dashboard.
-
----
-
-## Team Omnicraft
-
-| Member | Role |
-|---|---|
-| Add Member Name | Team Lead / Full-Stack Development |
-| Add Member Name | Frontend Development |
-| Add Member Name | Backend and Database |
-| Add Member Name | Research, UI/UX and Documentation |
 
 ---
 
