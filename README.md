@@ -111,15 +111,27 @@ rules and authorized officer approval.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-Add real screenshots after uploading them to `assets/screenshots/`.
+### 1. Dashboard
+![MetroSense City Dashboard](assets/screenshots/dashboard.png)
 
-```md
+### 2. Instrument Scanning
+![Instrument Scanning](assets/screenshots/Scaninstrument.png)
 
+### 3. Concurrent Inspection Pipeline
+![Concurrent Inspection Pipeline](assets/screenshots/concurrentpipeline.png)
 
+### 4. 11-Step Verification
+![11-Step Verification](assets/screenshots/11step%20verification.png)
 
-```
+---
+
+## 🌐 Live Demo
+
+Explore the MetroSense City MVP:
+
+[**Launch MetroSense City**](https://metrosence-city.vercel.app/)
 
 ---
 
