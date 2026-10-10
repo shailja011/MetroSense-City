@@ -90,11 +90,6 @@ Where:
 - `I` = Instrument-indicated value
 - `L` = Applied reference load
 
-The system compares the absolute error with the applicable Maximum Permissible Error:
-
-\[
-|E| \leq MPE
-\]
 
 The result is generated through a deterministic rules engine. AI can assist with OCR,
 search, or anomaly detection, but the final compliance outcome is based on validated
