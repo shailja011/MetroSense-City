@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+build/
+coverage/
+
+# Logs
+*.log
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Uploaded and generated files
+uploads/
+generated-reports/
+database-backups/
