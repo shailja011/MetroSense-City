@@ -1,0 +1,20 @@
+[
+  {
+    "instrumentId": "MS-NAWI-001",
+    "type": "Electronic Platform Scale",
+    "manufacturer": "Demo WeighTech",
+    "serialNumber": "DWT-2026-001",
+    "maximumCapacityKg": 300,
+    "location": "Ward 42 Demo Market",
+    "status": "Demo Record"
+  },
+  {
+    "instrumentId": "MS-NAWI-002",
+    "type": "Weighbridge",
+    "manufacturer": "Demo Scale Systems",
+    "serialNumber": "DSS-WB-2042",
+    "maximumCapacityKg": 60000,
+    "location": "Demo Waste Transfer Station",
+    "status": "Demo Record"
+  }
+]
