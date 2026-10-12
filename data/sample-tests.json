@@ -1,0 +1,12 @@
+[
+  {
+    "testId": "TEST-2026-001",
+    "instrumentId": "MS-NAWI-001",
+    "referenceLoadKg": 100,
+    "indicatedValueKg": 100.02,
+    "measurementErrorKg": 0.02,
+    "result": "Illustrative Example",
+    "testDate": "2026-10-10",
+    "reportStatus": "Demo"
+  }
+]
